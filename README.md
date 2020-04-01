@@ -5,6 +5,7 @@ This is a poc using [Spring Cloud Amazon Web Service](https://spring.io/projects
 # Setup
 
 [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
+
 [AWS SQS](https://aws.amazon.com/sqs/)
 
 # Testing
